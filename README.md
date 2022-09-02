@@ -1,1 +1,2 @@
-This is my first project here at Moringa. It gives the user the details of a team in the premier league when the user searches for the team.
+AUTHOR: David Njoroge
+This is my first project here at Moringa. It gives the user the flag of ther country that they search.
