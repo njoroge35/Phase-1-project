@@ -1,0 +1,80 @@
+ontainer {
+	  background-color: #ffffff;
+	    
+	    
+	    
+	      width:100%;
+	          max-width: 67.5em;
+		      padding: 3em 2.5em;
+		          position: absolute;
+			      transform: translate(-50%, -50%);
+			          top: 50%;
+				      left: 50%;
+				          border-radius: 0.62em;
+					      box-shadow: 0 1.25em 1.8em rgba(8, 21, 65, 0.25);
+					        }
+						  body{
+							      background-image: url('https://www.nationsonline.org/maps/Political-World-Map.jpg');
+							        background-size: cover;
+								  }
+								    
+								    .search-wrapper {
+									        display: grid;
+										    grid-template-columns: 10fr 2fr;
+										        gap: 1.25em;
+											  }
+											    .search-wrapper button {
+												        font-size: 1em;
+													    background-color: #00B5E2;
+													        color: #ffffff;
+														    padding: 0.8em 0;
+														        border: none;
+															    border-radius:0;
+															      }
+															        .search-wrapper input {
+																	    font-size: 1em;
+																	        padding: 0 0.9em;
+																		    border: none;
+																		        border-bottom: 2px solid #3d64e6;
+																			    outline: none;
+																			        color: #222a43;
+																				  }
+																				    #result {
+																					        margin-top: 1.25em;
+																						  }
+																						    .container .flag-img {
+																							        display: block;
+																								    width: 45%;
+																								        min-width: 7.5em;
+																									    margin: 1.8em auto 1.2em auto;
+																									      }
+																									        
+																									        .data-wrapper {
+																											    margin-bottom: 1em;
+																											        letter-spacing: 0.3px;
+																												  }
+																												    .main-container h5 {
+																													        display: inline;
+																														    font-weight: 500;
+																														        color: #222a43;
+																															  }
+
+																															    .btn-favourite{
+																																        padding :5px ;
+																																	    border:1px solid #04d90b;
+																																	        background:#04d90b;
+																																		    border-radius: 0;
+																																		      font-weight: 400;
+																																		        }
+																																			 
+																																			  
+																																			  
+																																			  .loader {
+																																				      border: 8px solid #f3f3f3; /* Light grey */
+																																				          border-top: 8px solid #3498db; /* Blue */
+																																					      border-radius: 50%;
+																																					          width: 50px;
+																																						      height: 50px;
+																																						          animation: spin .8s linear infinite;
+																																				      ;
+																																						      }
